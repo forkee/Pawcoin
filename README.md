@@ -1,4 +1,4 @@
-# Pawcoin: Helping Dog
+# Pawcoin: Involved in in the rescue of dogs
 
 Pawcoin born to help the dog associations to collect and help more animals.
 
