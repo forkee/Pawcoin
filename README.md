@@ -1,4 +1,4 @@
-# Pawcoin Helping Dog
+# Pawcoin: Helping Dog
 
 Pawcoin born to help the dog associations to collect and help more animals.
 
@@ -47,7 +47,7 @@ Premine purposes:
 
 ---------------------------------------------------------------------
 
-ROADMAP
+Roadmap:
 
 At the moment, the Roadmap, We see so:
 
