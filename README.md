@@ -3,6 +3,7 @@
 Pawcoin born to help the dog associations to collect and help more animals.
 
 
+
 Algorithm:                                    SCRYPT POW/POS
 
 Symbol:                                       PWC
@@ -30,7 +31,7 @@ Min Stake                                     8 hours
 Premine                                       3%
 
 -----------------------------------
-Premine purpose: 3% = 1.298.969,07 coins
+Premine purposes: 
 
 6 % for donating asociations 		77.938,1442  coins
 
@@ -46,7 +47,7 @@ Premine purpose: 3% = 1.298.969,07 coins
 
 ---------------------------------------------------------------------
 
-PAW COIN ROADMAP
+ROADMAP
 
 At the moment, the Roadmap, We see so:
 
