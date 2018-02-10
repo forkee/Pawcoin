@@ -4,17 +4,29 @@ Pawcoin born to help the dog associations to collect and help more animals.
 
 
 Algorithm:                                    SCRYPT POW/POS
+
 Symbol:                                       PWC
+
 Block reward:                                 100 PWC
+
 Last POW block                                10.000
+
 Block time:                                   60 seconds
+
 Recalculated difficulty:                      Every block
+
 Max coin available:                           43.298.969 PWC
+
 Transaction confirmation:                     15 blocks
+
 Mining maturation time:                       20 blocks
+
 P2P Port:                                     33128
+
 RPC Port:                                     33127
+
 Min Stake                                     8 hours
+
 Premine                                       3%
 
 -----------------------------------
