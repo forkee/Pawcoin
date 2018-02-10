@@ -51,5 +51,6 @@ Q4 2018 Make the donations
 Keep in contact:
 
 Discord: https://discord.gg/APnnrtd
+
 Telegram: https://t.me/joinchat/DF6I4g_wYl35ZUFQIleXzg
 
