@@ -1,4 +1,4 @@
-# Pawcoin Rescue Dog
+# Pawcoin Helping Dog
 
 Pawcoin born to help the dog associations to collect and help more animals.
 
@@ -38,15 +38,14 @@ At the moment, the Roadmap, We see so:
 27 FEB 2018 Creating block explorer and listing miningpools
 
 Q1 2018: develop masternode
-
 Q2 2018 Listing on some exchanges
 Q2 2018 Listing on 3 masternode sites / coinmarketcap
 Q2 2018 Launching a website
 Q2 2018 Setting up social and community accounts
-
 Q4 2018 Launch online wallet
 Q4 2018 Update Whitepaper & Roadmap 
 Q4 2018 Make the donations
+
 ----------------------------------------------------
 Keep in contact:
 
